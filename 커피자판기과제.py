@@ -4,5 +4,4 @@ coffee = number*200
 if money >= 0:
     money = money - coffee
     print("거스름돈:",money)
-ㅁ
 
